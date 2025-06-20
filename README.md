@@ -20,7 +20,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 ## 📊 Dashboard Preview
 
 > _(Add a screenshot of your Power BI dashboard here once available)_  
-> ![Dashboard Preview](dashboard-preview.png)
+> ![Dashboard Preview]("C:\Users\udays\Downloads\pbi2.jpg")
 
 ## 🚀 Future Improvements
 
